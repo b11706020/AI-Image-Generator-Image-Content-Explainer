@@ -1,4 +1,5 @@
-#Image Generator and Analyzer Web Application
+##Image Generator and Analyzer Web Application
+
 Description
 This web application, built using Streamlit, offers a user-friendly interface for generating and analyzing images. Users can input text to generate images, upload images for analysis or editing, and download the processed images. The application integrates with various APIs for image generation, editing, and analysis.
 
@@ -28,9 +29,6 @@ Copy code
 pip install -r requirements.txt
 Usage
 To start the application, run:
-
-arduino
-Copy code
 streamlit run app.py
 Navigate to http://localhost:8501 in your web browser to use the application.
 
